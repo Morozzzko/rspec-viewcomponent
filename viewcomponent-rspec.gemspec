@@ -39,5 +39,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 13"
   spec.add_development_dependency "rspec-rails", "~> 5"
   spec.add_development_dependency "standard", "~> 1.3"
-  spec.add_development_dependency "view_component", "~> 2"
+  spec.add_development_dependency "view_component", "~> 2.0"
 end
